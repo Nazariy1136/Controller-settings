@@ -1,4 +1,4 @@
-# Controller-settings
+# Налаштування пульта
 
 # Foobar
 
