@@ -1,12 +1,12 @@
 # Налаштування пульта
 
 
-| Inputs |  Center   |
+| Inputs |  Source   |
 |:-------|:---------:|
-| 01     | **bold**  |
-| 02     |  `code`   |
-| 03     | _italic_  |
-| 04     | _italic_  |
+| 01     |  **Ail**  |
+| 02     |  **Ele**  |
+| 03     |  **Thr**  |
+| 04     |  **Rud**  |
 # Foobar
 
 Foobar is a Python library for dealing with word pluralization.
