@@ -1,5 +1,5 @@
-# Налаштування пульта
-
+# Налаштування пульта TBS Tango 
+Одноразове та короткочасне натиснення на кнопку "MENU", натисканням кнопки "PAGE" перейти до сторінки 3/11.
 
 |  Inputs  |  Source   |
 |:---------|:---------:|
@@ -7,6 +7,12 @@
 |   02     |  **Ele**  |
 |   03     |  **Thr**  |
 |   04     |  **Rud**  |
+
+
+
+
+
+
 # Foobar
 
 Foobar is a Python library for dealing with word pluralization.
